@@ -116,7 +116,7 @@ export function PaypalLogin() {
               <Button
                 type="button"
                 variant="outline"
-                className="h-12 w-full rounded-full border-2 border-[#1f2937] bg-transparent text-[1.45rem] font-semibold text-[#111827] hover:bg-[#f3f4f6]"
+                className="h-12 w-full rounded-full border-2 border-[#1f2937] bg-transparent hover:bg-[#f3f4f6] hover:border-[#111827] hover:text-[#111827] active:bg-[#e5e7eb] active:scale-[0.98] transition-all duration-200 text-lg font-semibold shadow-sm"
               >
                 Sign Up
               </Button>
